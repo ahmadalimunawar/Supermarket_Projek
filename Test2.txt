@@ -1,2 +1,6 @@
 Halooo
+<<<<<<< HEAD
 sama-sama di test
+=======
+ Test Github
+>>>>>>> f9bc0df9576fa191903d9e84f26a3e5fc1d8a5c9
